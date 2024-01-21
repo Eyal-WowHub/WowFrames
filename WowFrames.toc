@@ -1,0 +1,9 @@
+## Interface: 100205
+
+## Title: Wow|cff40a5f7Frames|r
+## Notes: Adjust, reposition, and hide frames to align with my UI layout.
+## Author: Eyal Alon
+
+Scripts\ButtonFrame.lua
+Scripts\ExpansionLandingPageMinimapButton.lua
+Scripts\GameTooltip.lua
