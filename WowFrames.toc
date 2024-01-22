@@ -2,6 +2,7 @@
 
 ## Title: Wow|cff40a5f7Frames|r
 ## Notes: Adjust, reposition, and hide frames to align with my UI layout.
+## IconTexture: Interface\AddOns\WowFrames\Logo
 ## Author: Eyal Alon
 
 Scripts\ButtonFrame.lua
