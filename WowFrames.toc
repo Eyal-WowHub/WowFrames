@@ -7,4 +7,3 @@
 
 Scripts\ButtonFrame.lua
 Scripts\ExpansionLandingPageMinimapButton.lua
-Scripts\GameTooltip.lua
