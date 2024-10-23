@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 110005
 
 ## Title: Wow|cff40a5f7Frames|r
 ## Notes: Adjust, reposition, and hide frames to align with my UI layout.
